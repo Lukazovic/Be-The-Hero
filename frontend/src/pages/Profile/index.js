@@ -3,7 +3,7 @@ import React from 'react'
 import {Link} from 'react-router-dom'
 import { FiPower , FiTrash2} from 'react-icons/fi';
 
-import './style.css'
+import './styles.css'
 
 import logoImg from '../../assets/logo.svg';
 
