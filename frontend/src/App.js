@@ -1,8 +1,12 @@
-import React from 'react';
+import React from 'react'
+
+import Logon from './pages/Logon'
 
 function App() {
   return (
-    <h1>Hello World</h1>
+    <div>
+      <Logon/>
+    </div>
   );
 }
 
