@@ -17,12 +17,14 @@ export default function Logon() {
     e.preventDefault()
     try{
       const response = await api.post('sessions', {id})
+      console.log(response.data)
 
       localStorage.setItem('ongId', id)
       localStorage.setItem('ongName', response.data.name)
 
       history.push('/profile')
     } catch(err){
+      console.log("ERRO")
       alert('Falha no login, tente novamente.')
     }
   }
