@@ -17,35 +17,19 @@ This specific project has the main goal to help ONGs. So it was built an applica
 - [React](https://reactjs.org/)
 - [React Native](https://reactnative.dev/)
 
-## Backend
+## How to use
 
-Navigate into the backend folder:
+### Backend
 
-```terminal
-cd backend
-```
+See how the Backend works and how to use in this page: [Backend](https://github.com/Lukazovic/be-the-hero/tree/master/backend)
 
-See how the Backend works in this page: [Backend](https://github.com/Lukazovic/be-the-hero/tree/master/backend)
+### Frontend
 
-## Frontend
+See how the Backend works and how to use in this page: [Frontend](https://github.com/Lukazovic/be-the-hero/tree/master/frontend)
 
-Navigate into the frontend folder:
+### Mobile APP
 
-```terminal
-cd frontend
-```
-
-See how the Backend works in this page: [Frontend](https://github.com/Lukazovic/be-the-hero/tree/master/frontend)
-
-## Mobile APP
-
-Navigate into the mobile folder:
-
-```terminal
-cd mobile
-```
-
-See how the Mobile App works in this page: [Mobile](https://github.com/Lukazovic/be-the-hero/tree/master/Mobile)
+See how the Mobile App works and how to use in this page: [Mobile](https://github.com/Lukazovic/be-the-hero/tree/master/Mobile)
 
 ## Author
 
