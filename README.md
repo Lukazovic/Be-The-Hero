@@ -47,7 +47,7 @@ cd mobile
 
 See how the Mobile App works in this page: [Mobile](https://github.com/Lukazovic/be-the-hero/tree/master/Mobile)
 
-## Authors
+## Author
 
 <table>
   <tr>
