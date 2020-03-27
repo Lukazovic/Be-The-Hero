@@ -21,15 +21,15 @@ This specific project has the main goal to help ONGs. So it was built an applica
 
 ### Backend
 
-See how the Backend works and how to use in this page: [Backend](https://github.com/Lukazovic/be-the-hero/tree/master/backend)
+See how the Backend works and how to use in this page: [Backend](https://github.com/Lukazovic/be-the-hero/tree/master/backend#backend)
 
 ### Frontend
 
-See how the Backend works and how to use in this page: [Frontend](https://github.com/Lukazovic/be-the-hero/tree/master/frontend)
+See how the Backend works and how to use in this page: [Frontend](https://github.com/Lukazovic/be-the-hero/tree/master/frontend#frontend)
 
 ### Mobile APP
 
-See how the Mobile App works and how to use in this page: [Mobile](https://github.com/Lukazovic/be-the-hero/tree/master/Mobile)
+See how the Mobile App works and how to use in this page: [Mobile](https://github.com/Lukazovic/be-the-hero/tree/master/mobile#mobile)
 
 ## Author
 
