@@ -1,8 +1,12 @@
-<h1 align="center">Be The Hero</h1>
-  <p align="center">
-  <strong align="center">A Fullsatck Web-Mobile application to help ONGs to spread their incidents</strong>
-</p>
-  <img src="/frontend/public/Screen-Shot-first-page.png" float="center"/>
+<h4 align="center">
+<img src="./mobile/src/assets/logo@3x.png" width="250px" /><br>
+ <strong align="center">A Fullsatck Web-Mobile application to help ONGs to spread their incidents</strong>
+</h4>
+<p align="center">
+  <a href="https://rocketseat.com.br">
+    <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-red">
+  </a>
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-red">
 </p>
 
 ## About
