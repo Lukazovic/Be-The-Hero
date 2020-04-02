@@ -192,3 +192,45 @@ npm start
   "id": 11
 }
 ```
+
+### Get all incidents
+
+#### Method:
+
+- GET: `/incidents`
+
+#### URL Example
+
+> [http://localhost:3333/incidents](http://localhost:3333/incidents)
+
+#### Paramethers
+
+|   Paramether   |       Description    |     Type      |
+| :------------: | :------------------: | :-----------: |
+|  Authorization |   Session user's ID  | Authorization |
+
+### Delete a Incident for a ONG
+
+#### Method:
+
+- DELETE: `/incidents/<id>`
+	- `<id> is the identifier of the ONG`
+
+#### URL Example
+
+> [http://localhost:3333/incidents](http://localhost:3333/incidents)
+
+#### Paramethers
+
+|   Paramether   |       Description    |     Type      |
+| :------------: | :------------------: | :-----------: |
+|  Authorization |   Session user's ID  | Authorization |
+|      id        |         ONG ID       |     String    |
+
+## Author
+
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/Lukazovic"><img src="https://avatars0.githubusercontent.com/u/54550926?s=460&u=cdeeac652ce0597a986fbdcff6e249ad27a1f1da&v=4" width="100px;" alt=""/><br /><sub><b>Lucas Vieira</b></sub></a><br /><a href="https://github.com/Lukazovic/be-the-hero" title="Code">💻</a></td>
+  <tr>
+</table>
