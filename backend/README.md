@@ -107,6 +107,7 @@ npm start
 ```json
 {
     "id": "e4446c37"
+}
 ```
 
 > Observation: As response you will receive a ID so you will be able to use it to authenticate the ONG when it needed.
