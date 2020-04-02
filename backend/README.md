@@ -120,3 +120,35 @@ npm start
 #### URL Example
 
 > [http://localhost:3333/ongs](http://localhost:3333/ongs)
+
+### Get all incidents by a specific ONG
+
+#### Method:
+
+- GET: `/profile`
+
+#### URL Example
+
+> [http://localhost:3333/profile](http://localhost:3333/profile)
+
+#### Paramethers
+
+|   Paramether   |       Description    |     Type      |   Required   |
+| :------------: | :------------------: | :-----------: | :----------: |
+|  Authorization |   Session user's ID  | Authorization |     True     |
+
+### ONG login
+
+#### Method:
+
+- POST: `/sessions`
+
+#### URL Example
+
+> [http://localhost:3333/sessions](http://localhost:3333/sessions)
+
+#### Paramethers
+
+|   Paramether   |       Description    |     Type     |   Required   |
+| :------------: | :------------------: | :----------: | :----------: |
+|       id       |         ONG ID       |     String   |     True     |
