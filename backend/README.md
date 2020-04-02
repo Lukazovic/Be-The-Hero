@@ -134,9 +134,9 @@ npm start
 
 #### Paramethers
 
-|   Paramether   |       Description    |     Type      |   Required   |
-| :------------: | :------------------: | :-----------: | :----------: |
-|  Authorization |   Session user's ID  | Authorization |     True     |
+|   Paramether   |       Description    |     Type      |
+| :------------: | :------------------: | :-----------: |
+|  Authorization |   Session user's ID  | Authorization |
 
 ### ONG login
 
@@ -150,6 +150,45 @@ npm start
 
 #### Paramethers
 
-|   Paramether   |       Description    |     Type     |   Required   |
-| :------------: | :------------------: | :----------: | :----------: |
-|       id       |         ONG ID       |     String   |     True     |
+|   Paramether   |       Description    |     Type     |
+| :------------: | :------------------: | :----------: |
+|       id       |         ONG ID       |     String   |
+
+## How to use Incidents API Endpoints
+
+### Create new Incident for a ONG
+
+#### Method:
+
+- POST: `/incidents`
+
+#### URL Example
+
+> [http://localhost:3333/incidents](http://localhost:3333/incidents)
+
+#### Paramethers
+
+|   Paramether  |        Description       |     Type      |
+| :-----------: | :----------------------: | :-----------: |
+|     title     |     Incident's title     |    String     |
+|  description  |  Incident's description  |    String     |
+|     value     |     Incident's value     |    Number     |
+| Authorization |     Session user's ID    | Authorization |
+
+##### JSON request body example:
+
+```json
+{
+	"title": "Title to Help",
+	"description": "Details",
+	"value": 75
+}
+```
+
+##### Response example:
+
+```json
+{
+  "id": 11
+}
+```
