@@ -34,7 +34,7 @@ Go into the project root folder:
 cd Be-The-Hero
 ```
 
-Install the projects modules:
+Install the projects dependencies:
 ```
 npm install
 ```
