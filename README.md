@@ -55,9 +55,7 @@ See how the Mobile App works and how to use in this page: [Mobile](https://githu
 - Commit your feature: `git commit -m 'feat: My new feature'`;
 - Push to your branch: `git push origin my-feature`.
 
-Then merge your pull request, you can now delete your branch
-
-> **Tip:** A simple and easy way to starting contributing with this project is by adding some words to the game. The file is at `./src/words.js`
+Then merge your pull request, you can now delete your branch.
 
 ## :pencil: Author
 
