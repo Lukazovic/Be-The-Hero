@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <a href="#-about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#page_with_curl-about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#wrench-built-with">Built With</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-how-to-use">How to Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#heart_eyes-how-to-use">How to Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-how-to-contribute">How to Contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#pencil-author">Author</a>
 </p>
@@ -22,7 +22,7 @@
   <img alt="BeTheHero" src="frontend/public/bethehero.png" width="100%">
 </p>
 
-## 💻 About
+## :page_with_curl: About
 
 This project is part of the a free code week provide by [Rocketseat](https://rocketseat.com.br/). In this week the main point is to teach how to built a fullstack Application. So it is teached NodeJS, React and React Native in order to deal with all parts of a complete project.
 
@@ -34,17 +34,17 @@ This specific project has the main goal to help ONGs. So it was built an applica
 - [React](https://reactjs.org/)
 - [React Native](https://reactnative.dev/)
 
-## 🤔 How to Use
+## :heart_eyes: How to Use
 
-#### Backend
+#### :keyboard: Backend
 
 See how the Backend works and how to use in this page: [Backend](https://github.com/Lukazovic/be-the-hero/tree/master/backend#backend)
 
-#### Frontend
+#### 💻 Frontend
 
 See how the Backend works and how to use in this page: [Frontend](https://github.com/Lukazovic/be-the-hero/tree/master/frontend#frontend)
 
-#### Mobile APP
+#### :iphone: Mobile APP
 
 See how the Mobile App works and how to use in this page: [Mobile](https://github.com/Lukazovic/be-the-hero/tree/master/mobile#mobile)
 
