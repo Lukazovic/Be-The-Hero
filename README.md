@@ -30,9 +30,10 @@ This specific project has the main goal to help ONGs. So it was built an applica
 
 ## :wrench: Built With
 
-- [Node](https://nodejs.org/en/)
-- [React](https://reactjs.org/)
-- [React Native](https://reactnative.dev/)
+- [Node.js](https://nodejs.org/en/)
+- [React](https://reactjs.org)
+- [React Native](https://facebook.github.io/react-native/)
+- [Expo](https://expo.io/)
 
 ## :heart_eyes: How to Use
 
