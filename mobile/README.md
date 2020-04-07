@@ -1,6 +1,6 @@
 <h1 align="center">Mobile</h1>
 <h4 align="center">
-  <img src="./public/bethehero-mobile.png" /><br>
+  <img src="../frontend/public/bethehero-mobile.png" /><br>
 </h4>
 
 <p align="center">
