@@ -40,8 +40,7 @@ It will open a browser page (if it doesn't, go to [http://localhost:3000](http:/
 
 <h3 align="center">Login</h3>
 <h4 align="center">
-  <img src="../.github/screenshots/frontend/login.png
-" /><br>
+  <img src="../.github/screenshots/frontend/login.png" /><br>
 </h4>
 
 <h3 align="center">Add New Incident</h3>
