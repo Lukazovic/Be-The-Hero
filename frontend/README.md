@@ -5,9 +5,9 @@
 
 <p align="center">
   <a href="#wrench-built-with">Built With</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#page_facing_up-prerequisites">Prerequisites</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#electric_plug-how-to-set-up">How to Set Up</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#page_facing_up-pages">Pages</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="-pages">Pages</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#pencil-author">Author</a>
 </p>
 
@@ -15,9 +15,11 @@
 
 - [React](https://reactjs.org)
 
-## 💻 About
+## :page_facing_up: Prerequisites
 
-This is the frontend of the Be the Hero application.
+```
+Node
+```
 
 ## :electric_plug: How to Set Up
 
@@ -31,7 +33,7 @@ It will open a browser page (if it doesn't, go to [http://localhost:3000](http:/
 
 > **Important:** In order to see all the incidents and make the system works it is required to start the [Backend](https://github.com/Lukazovic/be-the-hero/tree/master/backend#backend).
 
-## :page_facing_up: Pages
+## 💻 Pages
 
 <h3 align="center">Register New ONGs</h3>
 <h4 align="center">
